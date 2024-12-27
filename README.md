@@ -6,3 +6,5 @@ Huge applications in road safety where processing can be done on an edge device 
 ![Screenshot 2024-12-08 185003](https://github.com/user-attachments/assets/f2708379-21a8-455b-9c7b-31416b1c3739)
 
 ![Screenshot 2024-12-08 185034](https://github.com/user-attachments/assets/dbdebe2f-14d2-4428-83a7-41b7743fec5c)
+
+More details in : `report.pdf`
