@@ -1,7 +1,7 @@
 # Android-Based-Point-Cloud-Image-Classifier
-This is a Point Cloud Image Classifier. It takes a Point Cloud Image and use our trained model `svm_model.tflite` to predict if its a Human, Bike or Car. The code is in Kotlin and is designed for Android.
+This is a Point Cloud Image Classifier. It takes a Point Cloud Image and uses our trained model `svm_model.tflite` to predict if its a Human, Bike or Car. The code is in Kotlin and is designed for Android.
 
-Huge applications in road safety where processing can be done on an edge device with low power consumption and give fast results.
+Huge applications in road safety where processing can be done on an edge device with low power consumption and quick processing.
 
 ![Screenshot 2024-12-08 185003](https://github.com/user-attachments/assets/f2708379-21a8-455b-9c7b-31416b1c3739)
 
